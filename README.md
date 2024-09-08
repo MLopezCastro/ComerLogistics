@@ -209,6 +209,28 @@ Las soluciones implementadas no solo mejoraran la eficiencia en la gestión de i
 
 </p>
 
+<p align="center">
+  <img src="https://github.com/MLopezCastro/ComerLogistics/blob/main/Imagenes/1%20Portada.png" alt="Portada" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MLopezCastro/ComerLogistics/blob/main/Imagenes/2%20Resumen%20Ejecutivo.png" alt="Resumen Ejecutivo" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MLopezCastro/ComerLogistics/blob/main/Imagenes/3%20Detalle%20Inventario.png" alt="Detalle Inventario" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MLopezCastro/ComerLogistics/blob/main/Imagenes/4%20Rotaci%C3%B3n%20Inventario.png" alt="Rotación Inventario" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MLopezCastro/ComerLogistics/blob/main/Imagenes/5%20Costos%20.png" alt="Costos" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MLopezCastro/Comer
 
 
 
