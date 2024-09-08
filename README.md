@@ -230,7 +230,8 @@ Las soluciones implementadas no solo mejoraran la eficiencia en la gestión de i
 </p>
 
 <p align="center">
-  <img src="https://github.com/MLopezCastro/Comer
+  <img src="https://github.com/MLopezCastro/ComerLogistics/blob/main/Imagenes/6%20An%C3%A1lisis%20Rese%C3%B1as.png" alt="Análisis Reseñas" width="600"/>
+</p>
 
 
 
